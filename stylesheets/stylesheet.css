@@ -109,6 +109,12 @@ p {
   margin: 10px 0 15px 0;
 }
 
+p.backbutton {
+  text-align: right;
+  
+
+}
+
 p.intro {
   margin: 1.8em 3.4em 3em 1em;
   color: black;
@@ -278,6 +284,12 @@ Full-Width Styles
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+.flowchartintro {
+  background-color: #f2f2f2;
+  padding: 15px;
+  margin-bottom: 50px;
 }
 
 #forkme_banner {
