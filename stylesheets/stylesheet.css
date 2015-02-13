@@ -121,6 +121,11 @@ p.intro {
 
 }
 
+p.subtitle {
+  margin-left: 1.1em;
+  font-size: 1.1em;
+}
+
 footer p {
   color: #f2f2f2;
 }
